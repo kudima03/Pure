@@ -1,15 +1,3 @@
-[submodule "submodules/PureQL-Specification"]
-	path = PureQL-Specification
-	url = https://github.com/kudima03/PureQL-Specification.git
-[submodule "submodules/PureQL.CSharp.Model"]
-	path = PureQL.CSharp.Model
-	url = https://github.com/kudima03/PureQL.CSharp.Model.git
-[submodule "submodules/PureQL.CSharp.Model.OpenAPI.Schema"]
-	path = PureQL.CSharp.Model.OpenAPI.Schema
-	url = https://github.com/kudima03/PureQL.CSharp.Model.OpenAPI.Schema.git
-[submodule "submodules/PureQL.CSharp.Model.Serialization"]
-	path = PureQL.CSharp.Model.Serialization
-	url = https://github.com/kudima03/PureQL.CSharp.Model.Serialization.git
 [submodule "submodules/Pure.Chart.Model.Abstractions"]
 	path = Pure.Chart.Model.Abstractions
 	url = https://github.com/kudima03/Pure.Chart.Model.Abstractions.git

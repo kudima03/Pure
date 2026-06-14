@@ -18,15 +18,6 @@ git submodule update --init --recursive
 
 ## Repositories
 
-### PureQL
-
-| Repository | Description |
-|---|---|
-| [PureQL-Specification](https://github.com/kudima03/PureQL-Specification) | PureQL is a JSON-based declarative query language for relational data, validated against a JSON Schema — easy to generate, serialize, transmit, and validate. |
-| [PureQL.CSharp.Model](https://github.com/kudima03/PureQL.CSharp.Model) | Typed C# AST for building PureQL queries — immutable, AOT-compatible records and discriminated unions modeling every clause of a SQL-like query. |
-| [PureQL.CSharp.Model.Serialization](https://github.com/kudima03/PureQL.CSharp.Model.Serialization) | System.Text.Json serialization support for PureQL query models — serialize and deserialize any Query and its constituent expressions to and from JSON. |
-| [PureQL.CSharp.Model.OpenAPI.Schema](https://github.com/kudima03/PureQL.CSharp.Model.OpenAPI.Schema) | OpenAPI document transformer for PureQL — injects the full PureQL JSON Schema into ASP.NET Core OpenAPI documents for correct query type schemas. |
-
 ### Primitives
 
 | Repository | Description |
@@ -167,4 +158,4 @@ git submodule update --init --recursive
 
 ---
 
-*76 repositories · updated automatically via git submodules*
+*72 repositories · updated automatically via git submodules*
