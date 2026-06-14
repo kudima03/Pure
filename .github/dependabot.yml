@@ -1,11 +1,9 @@
 version: 2
 updates:
-- package-ecosystem: nuget
-  directories:
-    - "src/"
-    - "src/Tests/"
+- package-ecosystem: "git-submodule"
+  directory: "/"
   schedule:
-    interval: daily
+    interval: weekly
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
