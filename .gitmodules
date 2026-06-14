@@ -1,228 +1,228 @@
 [submodule "submodules/PureQL-Specification"]
-	path = submodules/PureQL-Specification
+	path = PureQL-Specification
 	url = https://github.com/kudima03/PureQL-Specification.git
 [submodule "submodules/PureQL.CSharp.Model"]
-	path = submodules/PureQL.CSharp.Model
+	path = PureQL.CSharp.Model
 	url = https://github.com/kudima03/PureQL.CSharp.Model.git
 [submodule "submodules/PureQL.CSharp.Model.OpenAPI.Schema"]
-	path = submodules/PureQL.CSharp.Model.OpenAPI.Schema
+	path = PureQL.CSharp.Model.OpenAPI.Schema
 	url = https://github.com/kudima03/PureQL.CSharp.Model.OpenAPI.Schema.git
 [submodule "submodules/PureQL.CSharp.Model.Serialization"]
-	path = submodules/PureQL.CSharp.Model.Serialization
+	path = PureQL.CSharp.Model.Serialization
 	url = https://github.com/kudima03/PureQL.CSharp.Model.Serialization.git
 [submodule "submodules/Pure.Chart.Model.Abstractions"]
-	path = submodules/Pure.Chart.Model.Abstractions
+	path = Pure.Chart.Model.Abstractions
 	url = https://github.com/kudima03/Pure.Chart.Model.Abstractions.git
 [submodule "submodules/Pure.Chart.Model"]
-	path = submodules/Pure.Chart.Model
+	path = Pure.Chart.Model
 	url = https://github.com/kudima03/Pure.Chart.Model.git
 [submodule "submodules/Pure.Chart.Model.HashCodes"]
-	path = submodules/Pure.Chart.Model.HashCodes
+	path = Pure.Chart.Model.HashCodes
 	url = https://github.com/kudima03/Pure.Chart.Model.HashCodes.git
 [submodule "submodules/Pure.Chart.RelationalModel.Abstractions"]
-	path = submodules/Pure.Chart.RelationalModel.Abstractions
+	path = Pure.Chart.RelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.Chart.RelationalModel.Abstractions.git
 [submodule "submodules/Pure.Chart.RelationalModel"]
-	path = submodules/Pure.Chart.RelationalModel
+	path = Pure.Chart.RelationalModel
 	url = https://github.com/kudima03/Pure.Chart.RelationalModel.git
 [submodule "submodules/Pure.Chart.RelationalModel.Abstractions.Serialization.System"]
-	path = submodules/Pure.Chart.RelationalModel.Abstractions.Serialization.System
+	path = Pure.Chart.RelationalModel.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Chart.RelationalModel.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.Chart.RelationalModel.HashCodes"]
-	path = submodules/Pure.Chart.RelationalModel.HashCodes
+	path = Pure.Chart.RelationalModel.HashCodes
 	url = https://github.com/kudima03/Pure.Chart.RelationalModel.HashCodes.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.Abstractions"]
-	path = submodules/Pure.Chart.RichRelationalModel.Abstractions
+	path = Pure.Chart.RichRelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.Abstractions.git
 [submodule "submodules/Pure.Chart.RichRelationalModel"]
-	path = submodules/Pure.Chart.RichRelationalModel
+	path = Pure.Chart.RichRelationalModel
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.Abstractions.Serialization.System"]
-	path = submodules/Pure.Chart.RichRelationalModel.Abstractions.Serialization.System
+	path = Pure.Chart.RichRelationalModel.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.EFCore"]
-	path = submodules/Pure.Chart.RichRelationalModel.EFCore
+	path = Pure.Chart.RichRelationalModel.EFCore
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.EFCore.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.EFCore.Models"]
-	path = submodules/Pure.Chart.RichRelationalModel.EFCore.Models
+	path = Pure.Chart.RichRelationalModel.EFCore.Models
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.EFCore.Models.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.EFCore.Models.Configurations"]
-	path = submodules/Pure.Chart.RichRelationalModel.EFCore.Models.Configurations
+	path = Pure.Chart.RichRelationalModel.EFCore.Models.Configurations
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.EFCore.Models.Configurations.git
 [submodule "submodules/Pure.Chart.RichRelationalModel.HashCodes"]
-	path = submodules/Pure.Chart.RichRelationalModel.HashCodes
+	path = Pure.Chart.RichRelationalModel.HashCodes
 	url = https://github.com/kudima03/Pure.Chart.RichRelationalModel.HashCodes.git
 [submodule "submodules/Pure.Collections.Generic"]
-	path = submodules/Pure.Collections.Generic
+	path = Pure.Collections.Generic
 	url = https://github.com/kudima03/Pure.Collections.Generic.git
 [submodule "submodules/Pure.Diagram.Model.Abstractions"]
-	path = submodules/Pure.Diagram.Model.Abstractions
+	path = Pure.Diagram.Model.Abstractions
 	url = https://github.com/kudima03/Pure.Diagram.Model.Abstractions.git
 [submodule "submodules/Pure.Diagram.Model"]
-	path = submodules/Pure.Diagram.Model
+	path = Pure.Diagram.Model
 	url = https://github.com/kudima03/Pure.Diagram.Model.git
 [submodule "submodules/Pure.Diagram.Model.HashCodes"]
-	path = submodules/Pure.Diagram.Model.HashCodes
+	path = Pure.Diagram.Model.HashCodes
 	url = https://github.com/kudima03/Pure.Diagram.Model.HashCodes.git
 [submodule "submodules/Pure.Diagram.RelationalModel.Abstractions"]
-	path = submodules/Pure.Diagram.RelationalModel.Abstractions
+	path = Pure.Diagram.RelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.Diagram.RelationalModel.Abstractions.git
 [submodule "submodules/Pure.Diagram.RelationalModel"]
-	path = submodules/Pure.Diagram.RelationalModel
+	path = Pure.Diagram.RelationalModel
 	url = https://github.com/kudima03/Pure.Diagram.RelationalModel.git
 [submodule "submodules/Pure.Diagram.RelationalModel.Abstractions.Serialization.System"]
-	path = submodules/Pure.Diagram.RelationalModel.Abstractions.Serialization.System
+	path = Pure.Diagram.RelationalModel.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Diagram.RelationalModel.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.Diagram.RelationalModel.HashCodes"]
-	path = submodules/Pure.Diagram.RelationalModel.HashCodes
+	path = Pure.Diagram.RelationalModel.HashCodes
 	url = https://github.com/kudima03/Pure.Diagram.RelationalModel.HashCodes.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.Abstractions"]
-	path = submodules/Pure.Diagram.RichRelationalModel.Abstractions
+	path = Pure.Diagram.RichRelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.Abstractions.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel"]
-	path = submodules/Pure.Diagram.RichRelationalModel
+	path = Pure.Diagram.RichRelationalModel
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.Abstractions.Serialization.System"]
-	path = submodules/Pure.Diagram.RichRelationalModel.Abstractions.Serialization.System
+	path = Pure.Diagram.RichRelationalModel.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.EFCore"]
-	path = submodules/Pure.Diagram.RichRelationalModel.EFCore
+	path = Pure.Diagram.RichRelationalModel.EFCore
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.EFCore.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.EFCore.Models"]
-	path = submodules/Pure.Diagram.RichRelationalModel.EFCore.Models
+	path = Pure.Diagram.RichRelationalModel.EFCore.Models
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.EFCore.Models.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations"]
-	path = submodules/Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations
+	path = Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations.git
 [submodule "submodules/Pure.Diagram.RichRelationalModel.HashCodes"]
-	path = submodules/Pure.Diagram.RichRelationalModel.HashCodes
+	path = Pure.Diagram.RichRelationalModel.HashCodes
 	url = https://github.com/kudima03/Pure.Diagram.RichRelationalModel.HashCodes.git
 [submodule "submodules/Pure.HashCodes.Abstractions"]
-	path = submodules/Pure.HashCodes.Abstractions
+	path = Pure.HashCodes.Abstractions
 	url = https://github.com/kudima03/Pure.HashCodes.Abstractions.git
 [submodule "submodules/Pure.HashCodes"]
-	path = submodules/Pure.HashCodes
+	path = Pure.HashCodes
 	url = https://github.com/kudima03/Pure.HashCodes.git
 [submodule "submodules/Pure.Linq.Conditions"]
-	path = submodules/Pure.Linq.Conditions
+	path = Pure.Linq.Conditions
 	url = https://github.com/kudima03/Pure.Linq.Conditions.git
 [submodule "submodules/Pure.Primitives.Abstractions"]
-	path = submodules/Pure.Primitives.Abstractions
+	path = Pure.Primitives.Abstractions
 	url = https://github.com/kudima03/Pure.Primitives.Abstractions.git
 [submodule "submodules/Pure.Primitives"]
-	path = submodules/Pure.Primitives
+	path = Pure.Primitives
 	url = https://github.com/kudima03/Pure.Primitives.git
 [submodule "submodules/Pure.Primitives.Abstractions.EFCore.Converters"]
-	path = submodules/Pure.Primitives.Abstractions.EFCore.Converters
+	path = Pure.Primitives.Abstractions.EFCore.Converters
 	url = https://github.com/kudima03/Pure.Primitives.Abstractions.EFCore.Converters.git
 [submodule "submodules/Pure.Primitives.Abstractions.EFCore.ValueComparers"]
-	path = submodules/Pure.Primitives.Abstractions.EFCore.ValueComparers
+	path = Pure.Primitives.Abstractions.EFCore.ValueComparers
 	url = https://github.com/kudima03/Pure.Primitives.Abstractions.EFCore.ValueComparers.git
 [submodule "submodules/Pure.Primitives.Abstractions.OpenAPI.Schema"]
-	path = submodules/Pure.Primitives.Abstractions.OpenAPI.Schema
+	path = Pure.Primitives.Abstractions.OpenAPI.Schema
 	url = https://github.com/kudima03/Pure.Primitives.Abstractions.OpenAPI.Schema.git
 [submodule "submodules/Pure.Primitives.Abstractions.Serialization.System"]
-	path = submodules/Pure.Primitives.Abstractions.Serialization.System
+	path = Pure.Primitives.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Primitives.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.Primitives.Bool.Operations"]
-	path = submodules/Pure.Primitives.Bool.Operations
+	path = Pure.Primitives.Bool.Operations
 	url = https://github.com/kudima03/Pure.Primitives.Bool.Operations.git
 [submodule "submodules/Pure.Primitives.Cached"]
-	path = submodules/Pure.Primitives.Cached
+	path = Pure.Primitives.Cached
 	url = https://github.com/kudima03/Pure.Primitives.Cached.git
 [submodule "submodules/Pure.Primitives.Char.Operations"]
-	path = submodules/Pure.Primitives.Char.Operations
+	path = Pure.Primitives.Char.Operations
 	url = https://github.com/kudima03/Pure.Primitives.Char.Operations.git
 [submodule "submodules/Pure.Primitives.Choices"]
-	path = submodules/Pure.Primitives.Choices
+	path = Pure.Primitives.Choices
 	url = https://github.com/kudima03/Pure.Primitives.Choices.git
 [submodule "submodules/Pure.Primitives.Date.Operations"]
-	path = submodules/Pure.Primitives.Date.Operations
+	path = Pure.Primitives.Date.Operations
 	url = https://github.com/kudima03/Pure.Primitives.Date.Operations.git
 [submodule "submodules/Pure.Primitives.DateTime.Operations"]
-	path = submodules/Pure.Primitives.DateTime.Operations
+	path = Pure.Primitives.DateTime.Operations
 	url = https://github.com/kudima03/Pure.Primitives.DateTime.Operations.git
 [submodule "submodules/Pure.Primitives.Materialized"]
-	path = submodules/Pure.Primitives.Materialized
+	path = Pure.Primitives.Materialized
 	url = https://github.com/kudima03/Pure.Primitives.Materialized.git
 [submodule "submodules/Pure.Primitives.Number.Operations"]
-	path = submodules/Pure.Primitives.Number.Operations
+	path = Pure.Primitives.Number.Operations
 	url = https://github.com/kudima03/Pure.Primitives.Number.Operations.git
 [submodule "submodules/Pure.Primitives.Random"]
-	path = submodules/Pure.Primitives.Random
+	path = Pure.Primitives.Random
 	url = https://github.com/kudima03/Pure.Primitives.Random.git
 [submodule "submodules/Pure.Primitives.String.Operations"]
-	path = submodules/Pure.Primitives.String.Operations
+	path = Pure.Primitives.String.Operations
 	url = https://github.com/kudima03/Pure.Primitives.String.Operations.git
 [submodule "submodules/Pure.Primitives.Switches"]
-	path = submodules/Pure.Primitives.Switches
+	path = Pure.Primitives.Switches
 	url = https://github.com/kudima03/Pure.Primitives.Switches.git
 [submodule "submodules/Pure.Primitives.Time.Operations"]
-	path = submodules/Pure.Primitives.Time.Operations
+	path = Pure.Primitives.Time.Operations
 	url = https://github.com/kudima03/Pure.Primitives.Time.Operations.git
 [submodule "submodules/Pure.RelationalSchema.Abstractions"]
-	path = submodules/Pure.RelationalSchema.Abstractions
+	path = Pure.RelationalSchema.Abstractions
 	url = https://github.com/kudima03/Pure.RelationalSchema.Abstractions.git
 [submodule "submodules/Pure.RelationalSchema"]
-	path = submodules/Pure.RelationalSchema
+	path = Pure.RelationalSchema
 	url = https://github.com/kudima03/Pure.RelationalSchema.git
 [submodule "submodules/Pure.RelationalSchema.Abstractions.OpenAPI.Schema"]
-	path = submodules/Pure.RelationalSchema.Abstractions.OpenAPI.Schema
+	path = Pure.RelationalSchema.Abstractions.OpenAPI.Schema
 	url = https://github.com/kudima03/Pure.RelationalSchema.Abstractions.OpenAPI.Schema.git
 [submodule "submodules/Pure.RelationalSchema.Abstractions.Serialization.System"]
-	path = submodules/Pure.RelationalSchema.Abstractions.Serialization.System
+	path = Pure.RelationalSchema.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.RelationalSchema.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.RelationalSchema.Conditions"]
-	path = submodules/Pure.RelationalSchema.Conditions
+	path = Pure.RelationalSchema.Conditions
 	url = https://github.com/kudima03/Pure.RelationalSchema.Conditions.git
 [submodule "submodules/Pure.RelationalSchema.HashCodes"]
-	path = submodules/Pure.RelationalSchema.HashCodes
+	path = Pure.RelationalSchema.HashCodes
 	url = https://github.com/kudima03/Pure.RelationalSchema.HashCodes.git
 [submodule "submodules/Pure.RelationalSchema.Random"]
-	path = submodules/Pure.RelationalSchema.Random
+	path = Pure.RelationalSchema.Random
 	url = https://github.com/kudima03/Pure.RelationalSchema.Random.git
 [submodule "submodules/Pure.RelationalSchema.RelationalModel.Abstractions"]
-	path = submodules/Pure.RelationalSchema.RelationalModel.Abstractions
+	path = Pure.RelationalSchema.RelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.RelationalSchema.RelationalModel.Abstractions.git
 [submodule "submodules/Pure.RelationalSchema.RichRelationalModel.Abstractions"]
-	path = submodules/Pure.RelationalSchema.RichRelationalModel.Abstractions
+	path = Pure.RelationalSchema.RichRelationalModel.Abstractions
 	url = https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.Abstractions.git
 [submodule "submodules/Pure.RelationalSchema.RichRelationalModel.EFCore.Models"]
-	path = submodules/Pure.RelationalSchema.RichRelationalModel.EFCore.Models
+	path = Pure.RelationalSchema.RichRelationalModel.EFCore.Models
 	url = https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore.Models.git
 [submodule "submodules/Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations"]
-	path = submodules/Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations
+	path = Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations
 	url = https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations.git
 [submodule "submodules/Pure.RelationalSchema.Self.Schema"]
-	path = submodules/Pure.RelationalSchema.Self.Schema
+	path = Pure.RelationalSchema.Self.Schema
 	url = https://github.com/kudima03/Pure.RelationalSchema.Self.Schema.git
 [submodule "submodules/Pure.RelationalSchema.Self.Storage.Introjection"]
-	path = submodules/Pure.RelationalSchema.Self.Storage.Introjection
+	path = Pure.RelationalSchema.Self.Storage.Introjection
 	url = https://github.com/kudima03/Pure.RelationalSchema.Self.Storage.Introjection.git
 [submodule "submodules/Pure.RelationalSchema.Self.Storage.Projection"]
-	path = submodules/Pure.RelationalSchema.Self.Storage.Projection
+	path = Pure.RelationalSchema.Self.Storage.Projection
 	url = https://github.com/kudima03/Pure.RelationalSchema.Self.Storage.Projection.git
 [submodule "submodules/Pure.RelationalSchema.Storage"]
-	path = submodules/Pure.RelationalSchema.Storage
+	path = Pure.RelationalSchema.Storage
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.git
 [submodule "submodules/Pure.RelationalSchema.Storage.Abstractions"]
-	path = submodules/Pure.RelationalSchema.Storage.Abstractions
+	path = Pure.RelationalSchema.Storage.Abstractions
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.Abstractions.git
 [submodule "submodules/Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema"]
-	path = submodules/Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema
+	path = Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema.git
 [submodule "submodules/Pure.RelationalSchema.Storage.Abstractions.Serialization.System"]
-	path = submodules/Pure.RelationalSchema.Storage.Abstractions.Serialization.System
+	path = Pure.RelationalSchema.Storage.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.Abstractions.Serialization.System.git
 [submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL"]
-	path = submodules/Pure.RelationalSchema.Storage.PostgreSQL
+	path = Pure.RelationalSchema.Storage.PostgreSQL
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.git
 [submodule "submodules/Pure.RelationalSchema.Storage.PureQL.Projection"]
-	path = submodules/Pure.RelationalSchema.Storage.PureQL.Projection
+	path = Pure.RelationalSchema.Storage.PureQL.Projection
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PureQL.Projection.git
 [submodule "submodules/Pure.Serialization.Json"]
-	path = submodules/Pure.Serialization.Json
+	path = Pure.Serialization.Json
 	url = https://github.com/kudima03/Pure.Serialization.Json.git
 [submodule "submodules/Pure.Template"]
-	path = submodules/Pure.Template
+	path = Pure.Template
 	url = https://github.com/kudima03/Pure.Template.git
