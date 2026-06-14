@@ -1,0 +1,34 @@
+name: Build and Deploy
+
+on:
+  push:
+    tags:
+      - '*.*.*'
+
+env:
+  PACKAGES_URL: https://nuget.pkg.github.com
+
+jobs:
+  build:
+    name: Build Package
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+      attestations: write
+      id-token: write
+    defaults:
+      run:
+        working-directory: ./src
+    steps:
+    - uses: actions/checkout@v6
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v5
+      with:
+        dotnet-version: 10.x.x
+    - name: Package
+      run: dotnet pack --configuration Release -p:PackageVersion=${{ github.ref_name }} --output .
+    - name: Publish to GitHub packages
+      run: dotnet nuget push *.nupkg --api-key ${{ secrets.GITHUB_TOKEN }} --source ${{ env.PACKAGES_URL }}/${{ github.repository_owner }}/index.json
+    - name: Publish to NuGet
+      run: dotnet nuget push *.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
