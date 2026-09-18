@@ -208,6 +208,9 @@
 [submodule "submodules/Pure.RelationalSchema.Storage.PureQL.Projection"]
 	path = Pure.RelationalSchema.Storage.PureQL.Projection
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PureQL.Projection.git
+[submodule "submodules/Pure.RelationalSchema.Samples"]
+	path = Pure.RelationalSchema.Samples
+	url = https://github.com/kudima03/Pure.RelationalSchema.Samples.git
 [submodule "submodules/Pure.Serialization.Json"]
 	path = Pure.Serialization.Json
 	url = https://github.com/kudima03/Pure.Serialization.Json.git

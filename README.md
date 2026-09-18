@@ -82,6 +82,7 @@ git submodule update --init --recursive
 | [Pure.RelationalSchema.Random](https://github.com/kudima03/Pure.RelationalSchema.Random) | Random value generators for relational schema components in the Pure ecosystem — schemas, tables, columns, indexes, and foreign keys. |
 | [Pure.RelationalSchema.Abstractions.Serialization.System](https://github.com/kudima03/Pure.RelationalSchema.Abstractions.Serialization.System) | System.Text.Json converters for Pure.RelationalSchema abstract types — ISchema, ITable, IColumn, IColumnType, IForeignKey, and IIndex. |
 | [Pure.RelationalSchema.Abstractions.OpenAPI.Schema](https://github.com/kudima03/Pure.RelationalSchema.Abstractions.OpenAPI.Schema) | OpenAPI document transformer for Pure.RelationalSchema.Abstractions — corrects schema components for IColumn, IIndex, ITable, IForeignKey, and ISchema. |
+| [Pure.RelationalSchema.Samples](https://github.com/kudima03/Pure.RelationalSchema.Samples) | Sample relational schemas demonstrating usage of the Pure relational schema ecosystem. |
 
 ### Relational Schema — Relational & Rich Relational Model
 
