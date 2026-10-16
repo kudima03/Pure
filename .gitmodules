@@ -217,3 +217,27 @@
 [submodule "submodules/Pure.Template"]
 	path = Pure.Template
 	url = https://github.com/kudima03/Pure.Template.git
+[submodule "submodules/Pure.RelationalSchema.RichRelationalModel.EFCore"]
+	path = Pure.RelationalSchema.RichRelationalModel.EFCore
+	url = https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore.git
+[submodule "submodules/Pure.RelationalSchema.Storage.HashCodes"]
+	path = Pure.RelationalSchema.Storage.HashCodes
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.HashCodes.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Abstractions"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Abstractions
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Abstractions.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Creation"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Creation
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Creation.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Deletion"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Deletion
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Deletion.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Insertion"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Insertion
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Insertion.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Querying"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Querying
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Querying.git
+[submodule "submodules/Pure.RelationalSchema.Storage.Samples"]
+	path = Pure.RelationalSchema.Storage.Samples
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.Samples.git

@@ -92,6 +92,7 @@ git submodule update --init --recursive
 | [Pure.RelationalSchema.RichRelationalModel.Abstractions](https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.Abstractions) | Unified schema + relational-model interfaces for the Pure ecosystem — merges structural schema with relational model identity into single composable contracts. |
 | [Pure.RelationalSchema.RichRelationalModel.EFCore.Models](https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore.Models) | EF Core models implementing the Rich Relational Model abstractions for database schema introspection in the Pure ecosystem. |
 | [Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations](https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore.Models.Configurations) | EF Core IEntityTypeConfiguration\<T\> implementations for the Pure rich relational schema model — schemas, tables, columns, column types, indexes, and foreign keys. |
+| [Pure.RelationalSchema.RichRelationalModel.EFCore](https://github.com/kudima03/Pure.RelationalSchema.RichRelationalModel.EFCore) | Entity Framework Core `DbContext` for the Pure.RelationalSchema RichRelationalModel — maps schema, table, column, column type, foreign key, and index entities to a relational database. |
 
 ### Relational Schema — Storage
 
@@ -103,7 +104,13 @@ git submodule update --init --recursive
 | [Pure.RelationalSchema.Storage.Abstractions.Serialization.System](https://github.com/kudima03/Pure.RelationalSchema.Storage.Abstractions.Serialization.System) | System.Text.Json converters for relational schema storage abstractions — ICell, IRow, IStoredTableDataSet, and IStoredSchemaDataSet. |
 | [Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema](https://github.com/kudima03/Pure.RelationalSchema.Storage.Abstractions.OpenAPI.Schema) | OpenAPI document transformer for Pure — corrects auto-generated schemas for ICell, IRow, IStoredTableDataSet, and IStoredSchemaDataSet. |
 | [Pure.RelationalSchema.Storage.PostgreSQL](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL) | PostgreSQL storage implementation for the Pure relational schema ecosystem — DDL execution, row access, and row insertion via IDbConnection. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Abstractions](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Abstractions) | PostgreSQL-specific storage abstractions — IPostgreSqlStoredSchemaDataSet (an IStoredSchemaDataSet that carries its IDbConnection). |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Creation](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Creation) | PostgreSQL schema creation (DDL) — CREATE SCHEMA/TABLE/INDEX and foreign keys from an ISchema via IDbConnection. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Querying](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Querying) | PostgreSQL row querying — IQueryable/IAsyncEnumerable stored datasets over hash-named tables via IDbConnection. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Insertion](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Insertion) | PostgreSQL row insertion — de-duplicating INSERT decorators over Pure.RelationalSchema.Storage.PostgreSQL.Querying datasets. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Deletion](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Deletion) | PostgreSQL row deletion — DELETE decorators over Pure.RelationalSchema.Storage.PostgreSQL.Querying datasets. |
 | [Pure.RelationalSchema.Storage.PureQL.Projection](https://github.com/kudima03/Pure.RelationalSchema.Storage.PureQL.Projection) | Executes PureQL queries against in-memory relational schema datasets — translates a Query AST into a LINQ-backed IStoredTableDataSet. |
+| [Pure.RelationalSchema.Storage.Samples](https://github.com/kudima03/Pure.RelationalSchema.Storage.Samples) | Named, predefined stored data sets for the Pure ecosystem — cells, rows, table data sets and schema data sets built on Pure.RelationalSchema.Samples. |
 
 ### Relational Schema — Self-Description
 
