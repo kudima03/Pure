@@ -241,3 +241,18 @@
 [submodule "submodules/Pure.RelationalSchema.Storage.Samples"]
 	path = Pure.RelationalSchema.Storage.Samples
 	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.Samples.git
+[submodule "submodules/Pure.Authorization.OpenFGA.Model.Abstractions"]
+	path = Pure.Authorization.OpenFGA.Model.Abstractions
+	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions.git
+[submodule "submodules/Pure.Authorization.OpenFGA.Model"]
+	path = Pure.Authorization.OpenFGA.Model
+	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.git
+[submodule "submodules/Pure.Authorization.OpenFGA.Model.HashCodes"]
+	path = Pure.Authorization.OpenFGA.Model.HashCodes
+	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.HashCodes.git
+[submodule "submodules/Pure.Authorization.OpenFGA.Model.Conditions"]
+	path = Pure.Authorization.OpenFGA.Model.Conditions
+	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Conditions.git
+[submodule "submodules/Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System"]
+	path = Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System
+	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System.git
