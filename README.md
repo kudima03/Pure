@@ -158,6 +158,16 @@ git submodule update --init --recursive
 | [Pure.Diagram.RichRelationalModel.EFCore.Models](https://github.com/kudima03/Pure.Diagram.RichRelationalModel.EFCore.Models) | EF Core entity record implementations of the diagram rich relational model for the Pure ecosystem. |
 | [Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations](https://github.com/kudima03/Pure.Diagram.RichRelationalModel.EFCore.Models.Configurations) | EF Core IEntityTypeConfiguration\<T\> implementations for the Pure.Diagram rich relational model — diagram, diagram type, and series entity configurations. |
 
+### Authorization — OpenFGA Model
+
+| Repository | Description |
+|---|---|
+| [Pure.Authorization.OpenFGA.Model.Abstractions](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions) | OpenFGA authorization model interfaces for the Pure ecosystem — objects, subjects, tuples, type definitions, relation rewrites and conditions as immutable abstractions; AOT-compatible. |
+| [Pure.Authorization.OpenFGA.Model](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model) | Immutable record implementations of Pure.Authorization.OpenFGA.Model.Abstractions for the Pure ecosystem, plus OpenFGA text forms of subjects, objects and tuples; AOT-compatible. |
+| [Pure.Authorization.OpenFGA.Model.HashCodes](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.HashCodes) | Deterministic hashes for Pure.Authorization.OpenFGA.Model.Abstractions types in the Pure ecosystem; AOT-compatible. |
+| [Pure.Authorization.OpenFGA.Model.Conditions](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Conditions) | IBool conditions for the Pure ecosystem that check OpenFGA authorization models for consistency, and subjects and tuples for conformance to a model; AOT-compatible. |
+| [Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System) | System.Text.Json converters for Pure.Authorization.OpenFGA.Model.Abstractions in the Pure ecosystem: OpenFGA authorization model JSON, tuples, and subject/object strings; AOT-compatible. |
+
 ### Infrastructure
 
 | Repository | Description |
@@ -166,4 +176,4 @@ git submodule update --init --recursive
 
 ---
 
-*72 repositories · updated automatically via git submodules*
+*86 repositories · updated automatically via git submodules*
