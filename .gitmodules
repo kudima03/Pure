@@ -256,3 +256,15 @@
 [submodule "submodules/Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System"]
 	path = Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System
 	url = https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions.Serialization.System.git
+[submodule "submodules/Pure.RelationalSchema.Migration.Abstractions"]
+	path = Pure.RelationalSchema.Migration.Abstractions
+	url = https://github.com/kudima03/Pure.RelationalSchema.Migration.Abstractions.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Migration"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Migration
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Migration.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Existence"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Existence
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Existence.git
+[submodule "submodules/Pure.RelationalSchema.Storage.PostgreSQL.Destruction"]
+	path = Pure.RelationalSchema.Storage.PostgreSQL.Destruction
+	url = https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Destruction.git

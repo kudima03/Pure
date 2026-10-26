@@ -83,6 +83,7 @@ git submodule update --init --recursive
 | [Pure.RelationalSchema.Abstractions.Serialization.System](https://github.com/kudima03/Pure.RelationalSchema.Abstractions.Serialization.System) | System.Text.Json converters for Pure.RelationalSchema abstract types — ISchema, ITable, IColumn, IColumnType, IForeignKey, and IIndex. |
 | [Pure.RelationalSchema.Abstractions.OpenAPI.Schema](https://github.com/kudima03/Pure.RelationalSchema.Abstractions.OpenAPI.Schema) | OpenAPI document transformer for Pure.RelationalSchema.Abstractions — corrects schema components for IColumn, IIndex, ITable, IForeignKey, and ISchema. |
 | [Pure.RelationalSchema.Samples](https://github.com/kudima03/Pure.RelationalSchema.Samples) | Sample relational schemas demonstrating usage of the Pure relational schema ecosystem. |
+| [Pure.RelationalSchema.Migration.Abstractions](https://github.com/kudima03/Pure.RelationalSchema.Migration.Abstractions) | Storage-agnostic schema migration interfaces for the Pure relational schema ecosystem — source-to-target mappings of schemas, tables and columns; AOT-compatible. |
 
 ### Relational Schema — Relational & Rich Relational Model
 
@@ -109,6 +110,9 @@ git submodule update --init --recursive
 | [Pure.RelationalSchema.Storage.PostgreSQL.Querying](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Querying) | PostgreSQL row querying — IQueryable/IAsyncEnumerable stored datasets over hash-named tables via IDbConnection. |
 | [Pure.RelationalSchema.Storage.PostgreSQL.Insertion](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Insertion) | PostgreSQL row insertion — de-duplicating INSERT decorators over Pure.RelationalSchema.Storage.PostgreSQL.Querying datasets. |
 | [Pure.RelationalSchema.Storage.PostgreSQL.Deletion](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Deletion) | PostgreSQL row deletion — DELETE decorators over Pure.RelationalSchema.Storage.PostgreSQL.Querying datasets. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Destruction](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Destruction) | PostgreSQL schema destruction for the Pure relational schema ecosystem — lazily drops the hash-named storage of a relational schema with all its tables and data; AOT-compatible. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Existence](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Existence) | PostgreSQL schema existence check for the Pure relational schema ecosystem — tells whether the hash-named storage of a relational schema exists, re-checked on every read; AOT-compatible. |
+| [Pure.RelationalSchema.Storage.PostgreSQL.Migration](https://github.com/kudima03/Pure.RelationalSchema.Storage.PostgreSQL.Migration) | PostgreSQL schema migration for the Pure relational schema ecosystem — carries hash-named storage from a source schema to a target schema: drops, renames, retypes, adds columns with defaults, and creates what is new; AOT-compatible. |
 | [Pure.RelationalSchema.Storage.PureQL.Projection](https://github.com/kudima03/Pure.RelationalSchema.Storage.PureQL.Projection) | Executes PureQL queries against in-memory relational schema datasets — translates a Query AST into a LINQ-backed IStoredTableDataSet. |
 | [Pure.RelationalSchema.Storage.Samples](https://github.com/kudima03/Pure.RelationalSchema.Storage.Samples) | Named, predefined stored data sets for the Pure ecosystem — cells, rows, table data sets and schema data sets built on Pure.RelationalSchema.Samples. |
 
